@@ -1,4 +1,4 @@
-# doll-machine
+# my-vue-template
 
 ## Project setup
 ```
